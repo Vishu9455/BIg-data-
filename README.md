@@ -1,6 +1,4 @@
 # BIg-data-
-/* Project Structure:
-
 - src/main/java/com/example/pickspot/
     - PickSpotApplication.java
     - controller/PickSpotController.java
@@ -229,8 +227,4 @@ curl -X POST http://localhost:8080/pickSpot \
     "targetY": 2
   }
 }
-```
 
----
-
-Want me to package this into a downloadable ZIP next? 🚀 (Say: **"zip it"** )
